@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Babyfingerss/Babyfingerss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
