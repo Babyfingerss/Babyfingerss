@@ -2,29 +2,32 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks out your repository's code
-      - name: Checkout Code
+      # Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generates the snake animation
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      # Generate Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: "Babyfingerss" # Your GitHub username
-          output: dist/github-snake.svg
+          github_user_name: Babyfingerss
+          outputs: dist/snake.svg
 
-      # Uploads the animation
-      - name: Upload Animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: dist/github-snake.svg
+      # Upload Snake Animation
+      - name: Upload Snake Animation
+        run: |
+          mkdir -p output
+          mv dist/snake.svg output/github-snake.svg
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-snake.svg
+          git commit -m "Generated Snake Animation"
+          git push origin output
