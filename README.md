@@ -1,4 +1,4 @@
-<h3 align="left">👩‍💻 Data Analyst | Aspiring Web Designer | Tech Explorer<br><br>Hi! I’m Florence, a data enthusiast with a knack for creating impactful solutions. With expertise in tools like SQL, BigQuery, and Power BI, I enjoy uncovering insights that drive smarter decisions. I’m currently exploring web design using HTML, CSS, and JavaScript, combining creativity with problem-solving to craft functional and user-friendly designs.<br><br>I’m passionate about continuous learning and love tackling challenges across different domains. Let’s connect, collaborate, and make a difference together! 🚀</h3>
+<h3 align="left">👩‍💻 Data Analyst | Aspiring Data Designer | Tech Explorer<br><br>Hi! I’m Florence, a data enthusiast with a knack for creating impactful solutions. With expertise in tools like SQL, BigQuery, and Power BI, I enjoy uncovering insights that drive smarter decisions. I’m currently exploring web design using HTML, CSS, and JavaScript, combining creativity with problem-solving to craft functional and user-friendly designs.<br><br>I’m passionate about continuous learning and love tackling challenges across different domains. Let’s connect, collaborate, and make a difference together! 🚀</h3>
 
 ###
 
@@ -34,10 +34,25 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href= "aakaiflorence@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href= "https://t.me/babyfingers"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <a href= "https://discord.com/channels/@babyfingerss/"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/florence-umoinyang-b098b91a6/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Babyfingerss/Babyfingerss/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31gkqkpe5mf7ynvtxayey2svmpkq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gkqkpe5mf7ynvtxayey2svmpkq&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 
