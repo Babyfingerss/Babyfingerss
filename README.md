@@ -1,4 +1,9 @@
-<h3 align="left">👩‍💻 Data Analyst | Aspiring Data Designer | Tech Explorer<br><br>Hi! I’m Florence, a data enthusiast with a knack for creating impactful solutions. With expertise in tools like SQL, BigQuery, and Power BI, I enjoy uncovering insights that drive smarter decisions. I’m currently exploring web design using HTML, CSS, and JavaScript, combining creativity with problem-solving to craft functional and user-friendly designs.<br><br>I’m passionate about continuous learning and love tackling challenges across different domains. Let’s connect, collaborate, and make a difference together! 🚀</h3>
+<h3 align="left">👩‍💻 Framer Expert | Product Designer | Tech Explorer<br><br>Hi! I’m Florence, a Results-driven product designer with experience with a passion for crafting seamless, user-centric
+digital experiences across fintech, healthcare, and data-driven platforms. Experienced in designing both
+mobile and web applications, ensuring intuitive and scalable solutions that enhance usability and
+business impact.
+Proficient in Figma, Adobe XD, HTML, and CSS, with expertise in designing payment gateways,
+interactive dashboards, and data visualization tools that improve engagement and decision-making..<br><br>I’m passionate about continuous learning and love tackling challenges across different domains. Let’s connect, collaborate, and make a difference together! 🚀</h3>
 
 ###
 
